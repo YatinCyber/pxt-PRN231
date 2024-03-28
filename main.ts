@@ -30,7 +30,7 @@ namespace WiFiBit {
         }
     }
 
-    let pauseBaseValue: number = 100
+    let pauseBaseValue: number = 50
 
     /**
      * Change HTTP method wait period.
